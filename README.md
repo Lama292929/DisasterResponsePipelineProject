@@ -10,8 +10,7 @@
 1. Installation   <br>
 2. Project Overview <br>
 3. File Description / Instructions <br> 
-4. Screenshots <br> 
-5. Licensing, Authors, and Acknowledgements <br>
+
 
 
 
@@ -39,11 +38,5 @@ Instructions:
 3. Go to http://0.0.0.0:3001/
 
 
-
-<h2> Screenshots </h2>
-  
-  
-  
-<h2> Licensing, Authors, Acknowledgements </h2>
 
 
